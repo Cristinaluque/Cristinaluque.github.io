@@ -6,6 +6,6 @@ COSAS A TENER EN CUENTA PARA DISFRUTAR DE UNA EXPERIENCIA COMPLETA
 
 2.- La mayoría de los escenarios son videos en movimiento para activarlos hay que hacer click encima de ellos.
 
-3.- Para pasar los dialogos y avanzar en general se debe pulsar la barra espaciadora.
+3.- Para pasar los diálogos y avanzar en general se debe pulsar la barra espaciadora.
 
 4.- Este juego deberá ser abierto con el servidor de Chrome.
