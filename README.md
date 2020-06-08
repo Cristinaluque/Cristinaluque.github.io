@@ -127,9 +127,10 @@ Otra cosa que he aprendido y que aplicaré en un futuro es que aunque el conteni
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
+**Artículos y blogs** 
 
-- Insectos que son los protagonistas de historias: (https://enfilme.com/notas-del-dia/video-el-uso-de-insectos-en-los-filmes-de-animacion-de-ladislas-starevich) (https://www.fotogramas.es/noticias-cine/g22722538/peliculas-infantiles-insectos/)
+- Insectos que son los protagonistas de historias: (https://enfilme.com/notas-del-dia/video-el-uso-de-insectos-en-los-filmes-de-animacion-de-ladislas-starevich) 
+(https://www.fotogramas.es/noticias-cine/g22722538/peliculas-infantiles-insectos/)
 
 - Entrevista interesante: (https://www.indieorama.com/samorost/)
 
