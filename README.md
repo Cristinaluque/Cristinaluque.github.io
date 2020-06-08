@@ -99,6 +99,7 @@ Este  proyecto es interesante porque yo quería llevar el mundo animal a los vid
 - **Video:** Todos los videos que contiene el juego fueron colocados para aportar mayor diversión al jugador y a su vez para que la visualización del juego fuera dinámica y de esta manera a mi como creadora se me permitiera también experimentar con las posibilidades de un video en movimiento dentro de un videojuego.
 
 - **Instrucciones y ayuda al usuario:**  
+
 1.- En la escena de batallas la hormiga tiene movimiento propio.
 
 2.- La mayoría de los escenarios son videos en movimiento para activarlos hay que hacer click encima de ellos.
