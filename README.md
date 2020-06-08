@@ -18,8 +18,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Novela / Juego / Aventuras / Plataformas
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
+**Logotipo** : <img src="logo.jpg"/>
+Este logotipo representa todo el concepto del juego en una única imagen
 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo.
