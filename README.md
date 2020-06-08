@@ -71,8 +71,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo**
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- Creadores de contenido inspirador: (https://amanita-design.net/) 
+- Creadores de contenido inspirador[Samorost]: (https://amanita-design.net/) 
 - Compañias de videojuegos que inspiran: (https://www.naughtydog.com/) (https://thatgamecompany.com/#) (https://www.quanticdream.com/en)
 
 
