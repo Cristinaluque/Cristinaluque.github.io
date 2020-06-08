@@ -18,8 +18,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Novela / Juego / Aventuras / Plataformas
 
-**Logotipo** : <img src="logo.jpg"/>
-Este logotipo representa todo el concepto del juego en una única imagen
+**Logotipo** : <img src="logo.jpg"/> Este logotipo representa todo el concepto del juego en una única imagen.
 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo.
@@ -40,17 +39,21 @@ Este logotipo representa todo el concepto del juego en una única imagen
 
 ### 2.1 Storyboard: 
 
+Mi proyecto comienza con la aparición de una pipa que cae de un girasol y rodando llega hasta un hormiguero donde nuestra protagonista 
+comenzará su aventura para conseguirla. La pipa es arrastrada por el rio antes de que la hormiga pueda atraparla y es por esto que decide ir en su búsqueda, siguiendo el rio se topa con su primer obstáculo que es un ciervo volante que quiere quedarse con la pipa ya que esta a llegado a sus dominios, al ver que la situación no llevaba a ningún lado el ciervo decide atacar a la hormiga y cansado de no ver resultados lanza la pipa a lo profundo del bosque. La hormiga decide seguir con la misión principal y durante la caminata aparece ante ella una mantis, que dice ser la reina del bosque, esta se interpone en el camino de la hormiga porque dice que la hormiga es la culpable de la desaparición tanto de sus guardias como de la misma pipa que estaban custodiando, la mantis vengativa decide atacar a la hormiga pero al no ver resultados prefiere abandonar la pelea.
 
+Nuestra protagonista después de todo el camino que lleva recorrido decide avanzar ya que no perdería nada sin avanzase un poco más hasta que escucha unos gritos de socorro cerca de donde se encuentra y decide ir a investigar el origen de los gritos, llega a la conclusión de que provienen de la copa de un árbol por lo tanto sube por él. Una gran araña tiene retenidos a tres insectos junto a la pipa que ella andaba buscando, esta araña había creado una trampa para la hormiga unicamente para entretenerse y como no estaba dispuesta a que la hormiga se escapase decide pelear para poder atraparla. Lo que no se esparaba la araña es que con sus saltos provocará la rotura de la tela y la salvación de los insectos a su vez de la pipa, una vez en tierra los insectos que eran los guardias de la reina mantis agradecieron a la hormiga y prometieron a la hormiga que la imagen que tenían de ella en el bosque sería restaurada y ellos mismos hablarían con la reina para que así fuera. 
+El juego acaba con la hormiga que al fin a conseguido su pipa y hay un atardecer que remarca el final de esta aventura.
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
+<img src="vista.jpg"/>
+<img src="Vista 2.jpg"/>
+<img src="Vista 3.png"/>
+<img src="Vista 4.png"/>
 
 ### 2.2. Esquema de navegación 
 
+<img src="diagra.jpg"/>
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 
 
