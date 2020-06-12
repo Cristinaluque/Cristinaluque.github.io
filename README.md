@@ -118,6 +118,9 @@ Este  proyecto es interesante porque yo quería llevar el mundo animal a los vid
 Problemas que yo he podido identificar se corresponden con la segunda práctica ya que al subirla a Github el juego daba saltos entre escenas y se saltaba tanto escenas como diálogos además de la imposibilidad de visionar los videos. Otra cosa importante es que tú como jugador no comienzas desde el inicio del juego si hablamos de la segunda práctica sino que se salta el juego para comenzar por la mitad de la historia.
 
 
+### 3.1 Quiz: 
+
+Este proyecto surge con la idea de crear una serie de preguntas que tuvieran relación con el videojuego principal y que sirviesen para conocer de una manera más divertida algunas cualidades que probablemente no sabías que podían tener los insectos. Este juego se compone de 10 preguntas con tres opciones posibles para elegir (A, B, C) y de esta forma obtener una puntuación sobre 10 sobre tu conocimiento acerca de estos insectos. Puedes volver a jugar las veces que quieras y otra opción podría ser ver las respuestas finales que también es posible además de te ayudara expadir tus conocimientos sobre ellos.
 
 # 4. Conclusiones 
 
