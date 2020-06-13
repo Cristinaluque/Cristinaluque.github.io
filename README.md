@@ -122,6 +122,8 @@ Problemas que yo he podido identificar se corresponden con la segunda práctica 
 
 Este proyecto surge con la idea de crear una serie de preguntas que tuvieran relación con el videojuego principal y que sirviesen para conocer de una manera más divertida algunas cualidades que probablemente no sabías que podían tener los insectos. Este juego se compone de 10 preguntas con tres opciones posibles para elegir (A, B, C) y de esta forma obtener una puntuación sobre 10 sobre tu conocimiento acerca de estos insectos. Puedes volver a jugar las veces que quieras y otra opción podría ser ver las respuestas finales que también es posible además de te ayudara expadir tus conocimientos sobre ellos.
 
+Link: https://cristinaluque.github.io/QUIZHORMIGA.html
+
 # 4. Conclusiones 
 
 Desde mi punto de vista la creación de un juego en la situación de confinamiento ha supuesto todo un reto porque al mínimo error que tus ojos no perciban esto  hace que todo el trabajo no se desarrolle como tu deseabas, en mi caso respecto a la colocación de videos he aprendido que primero debo de estar segura de si una plataforma externa va a poder reproducirlos correctamente, ahora se que debo de realizar pruebas con anterioridad para todo el contenido que vaya a subir a internet ya sean videos, imágenes, páginas web, etc.
