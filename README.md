@@ -52,7 +52,7 @@ El juego acaba con la hormiga que al fin a conseguido su pipa y hay un atardecer
 
 ### 2.2. Esquema de navegación 
 
-<img src="diagrama.jpg"/>
+<img src="Untitled Diagram.jpg"/>
 
 
 
