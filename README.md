@@ -11,8 +11,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Titulo** : Ant's tales
 
 **Web:** 
-WEB principal: https://github.com/Cristinaluque/Cristinaluque.github.io
-Primara parte del proyecto: https://cristinaluque.github.io/Juegohormiga.html
+WEB principal: https://github.com/Cristinaluque/Cristinaluque.github.io Primera parte del proyecto: https://cristinaluque.github.io/Juegohormiga.html
 Segunda parte del proyecto: https://cristinaluque.github.io/Haniproyecto2.html
 Tercera parte QUIZ: https://cristinaluque.github.io/QUIZHORMIGA.html
 
